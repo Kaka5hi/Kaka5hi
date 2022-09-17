@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a self taught developer from India. Currently learning Frontend(React) which is a part of 100days challenge, already completed the basic and essential part of Frontend i.e. HTML, CSS and JavaScript.  
+- I'm a self taught developer from India. Currently learning Frontend(React) which is a part of 100days challenge, already completed the basic and essential part of Frontend and now learning and making projects based on React.  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Kaka5hi&theme=default&show_icons=true&count_private=true)
 
