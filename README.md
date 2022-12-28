@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm a self taught developer from India. Currently learning Frontend(React) which is a part of 100days challenge, already completed the basic and essential part of Frontend and now learning and making projects based on React.  
+- I'm a self taught developer from India. Currently learning Frontend(React) and making single page applications.
+- I would love to do some front-end related work anytime. If you have an idea, a project, or just want to talk web development, get in touch.
 
 
 <!--
