@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a self taught developer from India. Currently learning Frontend(React) and making single page applications.
-- I would love to do some front-end related work anytime. If you have an idea, a project, or just want to talk web development, get in touch.
+- I would love to do some front-end related work anytime. If you have an idea, a project, or just want to talk about web development, get in touch.
 
 
 <!--
