@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently using React, Nextjs, Tailwind CSS and Redux for projects.<br>📚 I’m currently learning Nodejs and Typescript.<br>🎯 Goal: Atleast make 3 fullstack projects by the end of January 2025.</p>
+<p align="left">✨ I’m currently using React, Nextjs, Tailwind CSS and Redux for projects.<br>📚 I’m currently learning Nodejs and Typescript.<br></p>
 
 ###
 
